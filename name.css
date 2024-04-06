@@ -1,0 +1,23 @@
+body {
+    background-image: url("file:///c:/Users/A S U S/Downloads/DarkB.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: 'Impact', sans-serif; /* Menggunakan font Impact yang biasa digunakan pada judul film */
+    text-shadow: 2px 2px 4px rgba(7, 29, 48, 0.5); 
+    border: 2px solid #141b25; 
+    background-color: #97a6e6a8; 
+    border-radius: 10px; 
+    padding: 10px; 
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif; /* Menggunakan font Montserrat untuk judul-judul */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+    border: 2px solid #4b7dc9;
+    background-color: #708fbd; 
+    border-radius: 10px; 
+    padding: 10px; 
+}
